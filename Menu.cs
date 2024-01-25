@@ -7,7 +7,7 @@ namespace MyApp
         public static void Start()
         {
             Console.Clear();
-            Console.WriteLine("BEM VINDO AO MENU DE PROJETOS!");
+            Console.WriteLine("BEM VINDO AO MENU DE PROJETOS FEITOS NO CURSO DO BALTA!");
             Console.WriteLine("made by: Eliseu");
             Console.WriteLine("------------------------------");
             Console.WriteLine("1- Calculadora");
