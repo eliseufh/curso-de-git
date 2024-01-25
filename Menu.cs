@@ -10,10 +10,10 @@ namespace MyApp
             Console.WriteLine("BEM VINDO AO MENU DE PROJETOS FEITOS NO CURSO DO BALTA!");
             Console.WriteLine("made by: Eliseu Silva");
             Console.WriteLine("------------------------------");
-            Console.WriteLine("1- Calculadora");
-            Console.WriteLine("2- Cronômetro");
-            Console.WriteLine("3- Editor de Texto");
-            Console.WriteLine("4- Sair");
+            Console.WriteLine("1- Calculator");
+            Console.WriteLine("2- StopWatch");
+            Console.WriteLine("3- Text Editor");
+            Console.WriteLine("4- Leave");
             Console.WriteLine("");
             Console.WriteLine("Qual opção deseja escolher?");
             short option = short.Parse(Console.ReadLine()!);
